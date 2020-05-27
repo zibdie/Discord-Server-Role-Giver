@@ -14,6 +14,11 @@ You can install all necessary libraries like this:
 ```
 pip install aiohttp && pip install cchardet && pip install aiodns && pip install -U discord.py
 ```
+You can also install using the requirements.txt
+```
+pip install -r requirements.txt
+```
+
 **Tip:**
 * If your installing on a Linux system, you may need to type 'pip3' instead of 'pip'. Please make sure Python3 & pip3 is installed with it
 * In case of folder permissions, run *pip install* as sudo
